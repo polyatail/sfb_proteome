@@ -1,0 +1,44 @@
+<style type="text/css"> 
+body {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+ 
+table {
+    border: 2px solid #A0A0A0;
+}
+ 
+tr, td {
+    border: 1px solid #A0A0A0;
+}
+ 
+a:link, a:visited, a:active {
+    color: #003366;
+}
+ 
+a:hover {
+    color: #2e5882;
+}
+</style> 
+
+<body>
+
+<a href="sfb_psiblast.php">SFB Proteome Browser</a>
+<br>
+<br>
+<a href="figures/">Figures</a>
+<br>
+<a href="fasta/">FASTA</a>
+<br>
+<a href="misc/">Miscellaneous</a>
+<br>
+<br>
+<a href="blast_sfb.php">BLAST SFB Genome</a>
+<br>
+<a href="blast_metahit.php">BLAST MetaHIT ORFs</a>
+<br>
+<a href="blast_nr.php">BLAST NR</a>
+<br>
+<a href="blast_nt.php">BLAST NT</a>
+
+</body>
